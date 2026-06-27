@@ -12,4 +12,3 @@ You can learn more about me at [silvestrini.dev](https://silvestrini.dev).
 
 Thanks for visiting.
 
-<img width="269" height="254" alt="autograph-silvestrini" src="https://github.com/user-attachments/assets/b2607a51-dd34-4812-a1db-cf895fc777ca" />
